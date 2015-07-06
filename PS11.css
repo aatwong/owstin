@@ -1,0 +1,7 @@
+/* Author: Andrew Atwong */
+
+@CHARSET "UTF-8";
+
+body {font-size:14pt; margin:100px;}
+h2,h3,h4 {color:Green}
+tt {color:blue;font-size:11pt}
